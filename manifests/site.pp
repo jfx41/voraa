@@ -59,7 +59,18 @@ node default {
   include nginx
 
   # Addons:
-  include sourcefire::voraa
+  include autoconf
+  include automake
+  include chrome
+  include cmake
+  include firefox
+  include geoip
+  include iterm2
+  include php
+  include python
+  include macvim
+  include wget
+  #include sourcefire::voraa
   #include automake
   #include autoconf
   #include sublime_text_2
