@@ -1,5 +1,5 @@
 class sourcefire::voraa {
-  boxen::sourcefire { 'voraa':
+  boxen::project { 'voraa':
     autoconf      => true,
     automake      => true,
     chrome        => true,
