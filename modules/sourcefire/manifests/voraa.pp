@@ -1,5 +1,5 @@
-class sfvrt::voraa {
-  boxen::sfvrt { 'voraa':
+class sourcefire::voraa {
+  boxen::sourcefire { 'voraa':
     autoconf      => true,
     automake      => true,
     chrome        => true,
