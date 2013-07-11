@@ -59,7 +59,7 @@ node default {
   include nginx
 
   # Addons:
-  include voraa
+  include sourcefire::voraa
   #include automake
   #include autoconf
   #include sublime_text_2
