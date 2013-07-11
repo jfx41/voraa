@@ -8,7 +8,7 @@ class sourcefire::voraa {
     geoip         => true,
     iterm2        => true,
     php           => true,
-    python        => true,
+    #python        => true,
     macvim        => true,
     wget          => true,
   }
