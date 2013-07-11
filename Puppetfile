@@ -34,7 +34,16 @@ github "sudo",       "1.0.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
+# class-dump hashdeep ssdeep yara ht udis86 wget spidermonkey wireshark libdnet md5deep ngrep tcpdump tcpreplay libyaml
 #github "autoconf"
 #github "automake"
-#github "sublime_text_2"
+#github "chrome"
+#github "cmake"
+#github "firefox"
+#github "geoip"
+#github "iterm2"
+#github "php"
+#github "python"
+#github "macvim"
+#github "wget"
 
