@@ -65,7 +65,7 @@ node default {
   #include cmake
   include firefox
   include geoip
-  include iterm2
+  #include iterm2
   include php
   include python
   include macvim
