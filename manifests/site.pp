@@ -62,7 +62,7 @@ node default {
   include autoconf
   include automake
   include chrome
-  include cmake
+  #include cmake
   include firefox
   include geoip
   include iterm2
